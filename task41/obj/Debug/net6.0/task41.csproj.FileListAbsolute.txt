@@ -1,0 +1,15 @@
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\bin\Debug\net6.0\task41.exe
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\bin\Debug\net6.0\task41.deps.json
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\bin\Debug\net6.0\task41.dll
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\bin\Debug\net6.0\task41.pdb
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\task41.dll
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\refint\task41.dll
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\task41.pdb
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
+C:\Users\ЖИГАН\Desktop\программированние\C#\seminar6\dzshka\task41\obj\Debug\net6.0\ref\task41.dll
